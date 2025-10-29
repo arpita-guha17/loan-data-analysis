@@ -1,21 +1,21 @@
 # loan-data-analysis
 Excel Dashboard analyzing loan performance and borrower risk. Includes KPIs, trends, and insights for decision making
-# 💰 Loan Data Analysis Dashboard
+#  Loan Data Analysis Dashboard
 
-### 📊 Overview
+###  Overview
 This project is an *Excel-based dashboard* designed to analyze loan performance and borrower trends.  
 It provides a visual summary of key insights such as repayment rates, gender distribution, and education-level analysis to help stakeholders monitor borrower behavior and risk.
 
 ---
 
-### 🎯 Objectives
+###  Objectives
 - Analyze borrower profiles and loan repayment patterns  
 - Identify correlations between education level, gender, and loan performance  
 - Visualize loan distribution and repayment status through interactive charts  
 
 ---
 
-### 📈 Dashboard Insights
+###  Dashboard Insights
 1. *Loan Taken by Age:*  
    Displays how many borrowers fall within each age bracket — showing younger age groups taking more loans.  
 
@@ -36,7 +36,7 @@ It provides a visual summary of key insights such as repayment rates, gender dis
 
 ---
 
-### 🧰 Tools Used
+###  Tools Used
 - *Microsoft Excel*
 - *Pivot Tables*
 - *Charts (Bar, Line, Pie)*
@@ -44,22 +44,22 @@ It provides a visual summary of key insights such as repayment rates, gender dis
 
 ---
 
-### 📂 Files Included
+###  Files Included
 - Loan Data Analysis.xlsx → Main dashboard  
 - Loan Payments dataset.xlsx → Source dataset  
-- image.png → Dashboard snapshot  
+- loan_dashboard.png → Dashboard snapshot  
 - README.md → Project documentation  
 
 ---
 
-### 📌 Key Highlights
+###  Key Highlights
 - Data cleaning and transformation using Excel  
 - Created dynamic KPIs for Total Principal, Male/Female Borrowers, and Loan Counts  
 - Designed an interactive dashboard layout for business-ready insights  
 
 ---
 
-### 👩‍💻 Author
+###  Author
 *Arpita Guha*  
 Data Analyst | Python • SQL • Power BI • Excel  
 📧 [Connect on LinkedIn](https://www.linkedin.com/in/arpita-guha-262441330/)
